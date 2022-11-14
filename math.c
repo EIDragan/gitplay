@@ -6,5 +6,5 @@ int multiply(int a, int b){
 }
 /*This is a division function*/
 int division(int a, int b){
-	return a/b;
+	return a-b;
 }
